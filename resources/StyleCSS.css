@@ -1,0 +1,11 @@
+.chart-pie-label {
+		-fx-font-size: 10px;
+		
+}
+.default-color0.chart-pie{
+	-fx-pie-color: red;
+}
+.chart-legend{
+	-fx-background-color:white;
+	-fx-border-color: white;
+}
