@@ -1,4 +1,6 @@
 # Store
+### Final Version:
+https://youtu.be/hB4u9IXnYko
 
 The system presents two interfaces-
 
@@ -13,3 +15,4 @@ add and remove groceries, product search, payment, removal from the customer lis
 
 **In this project we can see an Implementation in:**
 **Observer pattern, Singleton pattern, Iterator pattern, Memento pattern, Command pattern, MVC pattern, threads.**
+
